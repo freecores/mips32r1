@@ -1,6 +1,14 @@
 XUM MIPS32-R1 Release - 14 Oct 2012
 -----------------------------------
 
+!!! Update January 1, 2014
+!!! This project has moved to GitHub. No updates will be committed
+!!! to the OpenCores repository, and the repository itself may become
+!!! unavailable at a later time.
+!!!
+!!! Please visit https://github.com/grantea/mips32r1 for the latest project.
+
+
 This is an OpenCores release of the XUM MIPS32 processor
 from release 2.0 of the XUM project at the University of Utah.
 
